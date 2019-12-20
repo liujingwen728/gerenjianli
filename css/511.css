@@ -1,0 +1,100 @@
+
+.guanyu-title { padding:50px;   text-align: center;  background:#fff ; font-size: 26px;font-family: "微软雅黑"; color: #363A3F;}
+.guanyu-main { background: #f2f4f5 !important;  font-size: 0px; width:auto; overflow: hidden; padding: 50px;}
+.guanyu-main-left {  float: left; width: 45%;  text-align: left;vertical-align: top;overflow: hidden;}
+.guanyu-mian-left-title { font-size: 55px; color: #333; padding-bottom: 22px; margin-bottom: 40px; border-bottom: 3px solid #000000;  }
+.guanyu-mian-left-main {line-height: 35px;  font-size: 20px;}
+.guanyu-main-right{float: right;  width: 45%; font-size: 16px; text-align: left; line-height: 35px; vertical-align: top;  overflow: hidden;}
+
+
+
+.fiveone-part1 { background: #ffffff; overflow:hidden; width: 100%; text-align: center; padding-bottom:70px; 
+  
+  
+  
+}
+.fiveone-part1-kuang{  width: 28%; height:350px;  margin: 20px;  display: inline-block; position: relative; vertical-align: top; overflow: hidden;}
+.fiveone-part1-bottom {width: 100%;color: #fff; box-sizing: border-box;padding-bottom: 10px; background: rgb(0,0,0,0.7); padding-top: 10px; position: absolute; bottom:0px; }
+
+.fiveone-part1-kuang img { transition: all 0.5s; text-align: center; width: auto; height: 100%;  }
+
+.fiveone-part1-kuang img:hover { transform: scale(1.1); }
+
+.top-part { overflow: hidden;  width: 100%; background-position: center; background-size: cover; }
+
+/*
+
+卡片
+*/
+
+.fiveone-part2-title { text-align: center; width: 100%; font-size: 30px; }
+.fiveone-part2-jianjie { text-align: center; width: 100%; font-size: 22px; padding: 30px; box-sizing: border-box; }
+.fiveone-part2 { width: 100%; box-sizing: border-box; overflow: hidden; padding: 70px; padding-bottom: 55px;}
+
+.fiveone-part2-kuang {
+ width: 100%;
+}
+.fiveone-part2-card {
+  background: #F0F4F5;
+  width:calc(100% / 6); float: left; text-align: center;
+  overflow: hidden;
+  display: inline-block;   /* Safari */
+}
+.fiveone-part2-card ul {
+  color: #333;
+  opacity: 0.9;
+  width: 90%;
+  cursor: pointer;
+  margin-bottom: 15px;
+  margin-top: 15px;
+  transition: all 0.2s;
+  overflow: hidden;
+  background: #FFF;
+  display: inline-block;
+}
+.fiveone-part2-card ul:hover {
+  opacity: 1;
+  transform: scale(1.03);
+  -moz-box-shadow: 0px 0px 20px #333333;
+  -webkit-box-shadow: 0px 0px 50px #333333;
+  box-shadow: 0px 0px 12px #CCCCCC;
+}
+.fiveone-part2-card-img {
+  width:100%; height: auto;
+}
+.fiveone-part2-card-img img {
+  width:100%; height: auto;
+}
+.fiveone-part2-card-main {
+  padding: 20px;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box; /* Firefox */
+  -webkit-box-sizing: border-box;
+  width: 100%;
+  overflow: hidden;
+}
+.fiveone-part2-names {
+  font-size: 18px;
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
+.fiveone-part2-bumen {
+ font-size: 16px;
+  margin-bottom: 15px;
+}
+.fiveone-part2-contact {
+  font-size:18px;
+  cursor: pointer;
+}
+.fa-wechat:hover {
+  color: #0C0;
+}
+.fa-phone:hover {
+  color: #FC0;
+}
+.fa-weibo:hover {
+  color: #C33;
+}
+
+
+

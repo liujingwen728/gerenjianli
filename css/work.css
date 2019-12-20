@@ -1,0 +1,38 @@
+
+
+.kamtao-work { width: 100% ; box-sizing: border-box; padding: 40px; padding-bottom: 20px;overflow: hidden; } 
+.work-show { width: 100%;  overflow: hidden;  }
+.work-title { width: 100% ;  box-sizing: border-box; padding:20px; height: 30px; line-height:30px; font-size: 35px; margin-bottom: 50px; }
+.kamtaozp-left { width:800px; 
+ float: left; height: 400px;margin-bottom: 20px; margin:20px;background:url(../img/kamtaozp1.jpg); background-size: 120%; transition: all 0.75s; background-position: center;  position: relative; }
+.kamtaozp-left:hover {   background-size: 130%;}
+ .kamtaozp-left-tips { font-size: 20px; text-align: right;  color: #fff; width: 100%; height: 100px; background: rgba(0,0,0,0.8); bottom: 0px; position: absolute; }
+
+ .kamtaozp-right {border: #ECECEC 1px solid; width:calc(100% - 880px);
+ float: left; overflow: hidden;margin-bottom: 20px; border: 20px solid #F0F4F5;  }
+  .kamtaozp-right li { padding: 10px; }
+  .kamtaozp-right-title{ font-size: 30px; margin-bottom:20px;}
+  .kamtaozp-left1{width:800px; 
+ float: left; height: 400px;margin-bottom: 20px; margin:20px; background:url(../img/amaxun.jpg); background-size: 120%; transition: all 0.75s; background-position: center;  position: relative; }
+   .kamtaozp-left1:hover {background-size: 130%;}
+
+
+ @media screen and (max-width:1321px)
+{
+.kamtaozp-left { width:100%;box-sizing: border-box; margin:20px;
+ float: left; height: 400px;margin-bottom: 20px; background:url(../img/kamtaozp1.jpg); background-size: 120%; transition: all 0.75s; background-position: center;  position: relative; }
+.kamtaozp-left:hover {   background-size: 130%;}
+ .kamtaozp-left-tips { font-size: 20px; text-align: right;  color: #fff; width: 100%; height: 100px; background: rgba(0,0,0,0.8); bottom: 0px; position: absolute; }
+
+ .kamtaozp-right {border: #ECECEC 1px solid; width:100%; 
+ float: left; overflow: hidden;margin-bottom: 20px; border: 20px solid #F0F4F5;  }
+  .kamtaozp-right li { padding: 10px; }
+  .kamtaozp-right-title{ font-size: 30px; margin-bottom:20px;}
+  .kamtaozp-left1{width:100%; box-sizing: border-box; 
+ float: left; height: 400px;margin:20px;;border: 20px solid #F0F4F5; background:url(../img/amaxun.jpg); background-size: 120%; transition: all 0.75s; background-position: center;  position: relative; }
+   .kamtaozp-left1:hover {background-size: 130%;}
+
+
+ 
+
+}
